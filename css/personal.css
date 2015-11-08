@@ -33,6 +33,10 @@ of those sections to manage the look and feel of the site. */
     float: right;
 }
 
+.keeplaces{
+	width: 100%;
+}
+
 .intro-section {
     padding-top: 150px;
     text-align: center;
@@ -46,8 +50,9 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
-.about-section {
-    padding-top: 150px;
+.keeplaces-section {
+	height: 100%;
+    padding-top: 100px;
     text-align: left;
     background: #fff;
 }
